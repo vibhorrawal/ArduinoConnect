@@ -1,4 +1,4 @@
-# Arduino Connect
+# ArduinoConnect
 This project was made in 2nd semester.<br>
 The project uses an Android phone to drive a Car(Arduino connected with motors) or a bot if you prefer that way :p
 
